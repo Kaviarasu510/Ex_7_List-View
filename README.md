@@ -21,12 +21,11 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
+```
 Program to print the list of item.
-
-Developed by: Dhareene R K
-
-Register Number : 212222040035
+Developed by: Kaviyarasu K
+Register Number : 212222040075
+```
 
 ## ACTIVITY_MAIN.XML
 ```
